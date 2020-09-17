@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.gradle.fizzbuzzpackage.FizzBuzzTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-09-17T10:11:39" hostname="emily-minty" time="0.004">
+<testsuite name="com.gradle.fizzbuzzpackage.FizzBuzzTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-09-17T10:17:05" hostname="emily-minty" time="0.007">
   <properties/>
-  <testcase name="testFifteen" classname="com.gradle.fizzbuzzpackage.FizzBuzzTest" time="0.002"/>
-  <testcase name="testFive" classname="com.gradle.fizzbuzzpackage.FizzBuzzTest" time="0.001"/>
-  <testcase name="testMultiplesOfThree" classname="com.gradle.fizzbuzzpackage.FizzBuzzTest" time="0.0"/>
-  <testcase name="FizzBuzzTestNumbers" classname="com.gradle.fizzbuzzpackage.FizzBuzzTest" time="0.0"/>
-  <system-out><![CDATA[]]></system-out>
+  <testcase name="testFifteen" classname="com.gradle.fizzbuzzpackage.FizzBuzzTest" time="0.004"/>
+  <testcase name="testFive" classname="com.gradle.fizzbuzzpackage.FizzBuzzTest" time="0.0"/>
+  <testcase name="testMultiplesOfThree" classname="com.gradle.fizzbuzzpackage.FizzBuzzTest" time="0.001"/>
+  <testcase name="FizzBuzzTestNumbers" classname="com.gradle.fizzbuzzpackage.FizzBuzzTest" time="0.001"/>
+  <system-out><![CDATA[FizzBuzz
+FizzBuzz
+Buzz
+Buzz
+Buzz
+Fizz
+Fizz
+Fizz
+
+
+]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
