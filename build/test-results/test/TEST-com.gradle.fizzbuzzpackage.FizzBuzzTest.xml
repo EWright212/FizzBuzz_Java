@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.gradle.fizzbuzzpackage.FizzBuzzTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-09-17T09:30:34" hostname="emily-minty" time="0.002">
+<testsuite name="com.gradle.fizzbuzzpackage.FizzBuzzTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-09-17T10:02:49" hostname="emily-minty" time="0.001">
   <properties/>
-  <testcase name="FizzBuzzTestNumbers" classname="com.gradle.fizzbuzzpackage.FizzBuzzTest" time="0.002"/>
+  <testcase name="testFifteen" classname="com.gradle.fizzbuzzpackage.FizzBuzzTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
