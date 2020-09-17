@@ -3,14 +3,16 @@ package com.gradle.fizzbuzzpackage;
 public class FizzBuzzCreator {
 
     public String generate(int i) {
+        String output;
         if (i % 15 == 0) {
-            return "FizzBuzz";
+            output =  "FizzBuzz";
         } else if (i % 3 == 0) {
-            return "Fizz";
+            output = "Fizz";
         } else if (i % 5 == 0) {
-            return "Buzz";
+            output = "Buzz";
         } else {
-            return Integer.toString(i);
+            output = Integer.toString(i);
         }
+        return output;
     }
 }
