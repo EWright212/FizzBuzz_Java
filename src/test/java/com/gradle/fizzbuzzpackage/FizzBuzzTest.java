@@ -17,5 +17,11 @@ public class FizzBuzzTest {
     public void testMultiplesOfThree() {
         assertEquals("Fizz", fizzbuzz.generate(3));
         assertEquals("Fizz", fizzbuzz.generate(6));
+        assertEquals("Fizz", fizzbuzz.generate(27));
+    }
+
+    @Test
+    public void testFive() {
+        assertEquals("Buzz", fizzbuzz.generate(5));
     }
 }
